@@ -7,3 +7,5 @@
 172.18.0.53	pihole2.webbnet.org
 fe80::c15f:346:6d80:2f87	pihole1.local
 fe80::c15f:346:6d80:2f87	pihole1.webbnet.org
+fe80::5211:48f9:c234:df72	pihole2.local
+fe80::5211:48f9:c234:df72	pihole2.webbnet.org
